@@ -1,0 +1,8 @@
+a) To replicate the continuous arrival process in systems like call centers or queues,
+an arrival event must produce a new arrival event. Arrivals in real-world circumstances
+usually happen at odd times throughout time. We can accurately represent the dynamic
+character of the system in the simulation and replicate this stochastic behavior
+by creating a new arrival event following each arrival. The simulation would only depict
+a single arrival instance without creating fresh arrival events
+
+b) An event signifying the finish of the service should be generated at the beginning of the service.

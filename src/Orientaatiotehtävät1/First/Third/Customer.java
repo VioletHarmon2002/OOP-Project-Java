@@ -1,4 +1,4 @@
-package Third;
+package Orientaatiotehtävät1.First.Third;
 
 public class Customer {
     private static int nextId = 1;

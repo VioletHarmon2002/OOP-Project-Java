@@ -1,4 +1,4 @@
-package Fifth;
+package Orientaatiotehtävät1.First.Fifth;
 
 public class Customer {
     private static int nextId = 1;

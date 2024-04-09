@@ -1,4 +1,4 @@
-package Third;
+package Orientaatiotehtävät1.First.Third;
 
 public class TestCustomer { public static void main(String[] args) {
 
