@@ -1,0 +1,7 @@
+Because the Singleton pattern limits class instantiation to guarantee
+that there is only one instance of the class in the application,
+a Singleton object cannot be generated from outside the Singleton class using the new operation.
+
+A new instance of the class is created when you use the new operation
+ to construct an object. But in the case of a Singleton, we want to make sure that the
+class exists in exactly one instance for the duration of the program.

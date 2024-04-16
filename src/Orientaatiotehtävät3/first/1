@@ -1,0 +1,11 @@
+Defining age: ngather data  of the age distribution of students
+
+Defining Age Brackets and Percentages: Based on the collected data,
+define age brackets and their corresponding percentages. Each bracket will have a lower and upper age limit
+
+Generating Random Numbers: Random numbers are generated within the range of 1 to 100, inclusively
+
+Assigning Ages: For every random number generated, search through the age distribution data
+to locate the appropriate age bracket. Once identified, assign an age within that bracket to our generated age values.
+
+Repetition
